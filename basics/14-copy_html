@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -name '*.html' -exec cp -pu '{}' '..'
+cp -u *.html /root/holbertonschool-shell/ 
