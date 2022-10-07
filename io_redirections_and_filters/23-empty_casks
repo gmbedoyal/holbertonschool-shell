@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -name |  sort
+find . -empty -name* |  sort
