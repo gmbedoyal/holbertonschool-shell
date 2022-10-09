@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $((($bestchol#$WATER+($bestchol#$STIR)))
+expr $((($bestchol#$WATER)+($bestchol#$STIR)))
