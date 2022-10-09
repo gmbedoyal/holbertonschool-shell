@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $((02#$BINARY))
+expr $((2#$BINARY))
