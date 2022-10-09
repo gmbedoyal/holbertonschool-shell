@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n | grep -e '[023468]' | cut -f 2
+cat -n | grep -e '[023468]' | sort |cut -f 2
