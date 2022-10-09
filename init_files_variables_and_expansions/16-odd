@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n 2 | grep -e '[13579]' 
+cat -n | grep -e '[13579]' 
